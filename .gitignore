@@ -1,0 +1,3 @@
+*.exe
+.ruby-version
+.ruby-lsp/
